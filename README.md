@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Joywairua254
-- 👀 I’m interested in full stack web development and machine learning
 - 👀 I’m interested in full stack web development and cyber security
 - 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on ...
