@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joywairua254
-- 👀 I’m interested in full stack web development and machine learning
+- 👀 I’m interested in backend development and cybersecurity
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via my email joymercywairua@gmail.com
